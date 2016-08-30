@@ -1,0 +1,23 @@
+{
+  "name": "mylearnings",
+  "version": "1.0.0",
+  "description": "Bower and grunt leanings",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshanerella/mylearnings.git"
+  },
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshanerella/mylearnings/issues"
+  },
+  "homepage": "https://github.com/harshanerella/mylearnings#readme"
+}
